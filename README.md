@@ -42,4 +42,4 @@ Don't forget to keep your passwords; you'll need to type them into the command l
 `Gaussian(10, 7)` <br />
 `Binomial(0.4, 25)` <br />
 ## Import this Python Package and calculate Gaussian and Binomial distributions.
-![nitin-probability-distribution package on PyPi](https://github.com/nitinsoni1/nitin-probability-distribution/blob/main/Screenshot%20(165).png)
+![nitin-probability-distribution package on PyPi](https://github.com/nitinsoni1/nitin-probability-distribution/blob/main/Screenshot%20(166).png)
