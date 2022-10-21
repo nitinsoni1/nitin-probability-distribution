@@ -14,7 +14,7 @@ Inside the folder called `distribution_package`, you'll find another folder and 
 - If you want to install the Python package locally to your computer, you might want to set up a virtual environment first. A virtual environment is a siloed Python installation apart from your main Python installation. 
 - Type this command to create a virtual environment `python -m venv env` where env is the name you want to give to your virtual environment. You'll see a new folder appear with the Python installation named env.
 - In the terminal, type `cd env` and then type `.\Scripts\activate`. You'll notice that the command line now shows (env) at the beginning of the line to indicate you are using the env virtual environment
-- Now, you can type `cd ..` and then `pip install answer_python_package/.` That should install your distributions Python package.
+- Now, you can type `cd ..` and then `pip install nitin-probability-distribution/.` That should install your distributions Python package.
 
 - When adding any new functions or files to the Python Package, it doesn't know so the package needs to be upgraded. Type `pip install --upgrade nitin-probability-distribution`.
 
