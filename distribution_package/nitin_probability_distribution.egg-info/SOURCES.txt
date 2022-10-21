@@ -1,0 +1,10 @@
+setup.py
+nitin_probability_distribution/Binomialdistribution.py
+nitin_probability_distribution/Gaussiandistribution.py
+nitin_probability_distribution/Generaldistribution.py
+nitin_probability_distribution/__init__.py
+nitin_probability_distribution.egg-info/PKG-INFO
+nitin_probability_distribution.egg-info/SOURCES.txt
+nitin_probability_distribution.egg-info/dependency_links.txt
+nitin_probability_distribution.egg-info/not-zip-safe
+nitin_probability_distribution.egg-info/top_level.txt
